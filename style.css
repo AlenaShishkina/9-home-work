@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #f5f7fa;
+    padding: 40px;
+    max-width: 500px;
+    border: 2px solid;
+}
+div {
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #f5f7fa;
+    padding: 40px;
+    max-width: 500px;
+    border: 2px solid;
+}
+
+li {
+    position: relative;
+}
+
+button {
+    margin-left: 15px;
+    position: relative;
+    top: -20px;
+    left: 200px;
+}
+
+.inputBtn {
+    position: static;
+}
+
+input {
+    margin-left: 60px;
+}
